@@ -1,8 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz,https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_AR1.xml.gz,https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml.gz" tv-test="TV Argentina.m3u"
-
-
-#EXTINF:-1 tvg-id="000" tvg-name="ARtv" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Icono_App.png", INICIO - ARtv
-https://github.com/dvds115/DowloadIP/raw/main/ARtv/main_portal.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Canal Encuentro" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/03-Encuentro.png", Encuentro
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/04-NetTV.png", Net TV
@@ -10,15 +6,13 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/05-Telemax.png", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="InformacionPeriodistica.ar" tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/123-IP.png", Información Periodística
-https://is-tucuman.cdn.rcs.net.ar/mnp/ip_hls/playlist.m3u8
+https://ixp-nqn.origin.rcs.net.ar/mnp/ip_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal.26.Noticias.(26TV).ar" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/06-Canal26.png", Canal 26
 https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
-#EXTINF:-1 tvg-id="C5N.(C5N).ar" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/07-C5N.png", C5N
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/dbteiGt_t_4
 #EXTINF:-1 tvg-id="TV.Pública.(PUBLICA).ar" tvg-name="TV Publica" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/08-TVP.png", TV Pública
-https://is-tucuman.cdn.rcs.net.ar/mnp/tvp/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/tvp/output.mpd
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/09-Cronica.png", Crónica HD
-https://is-tucuman.cdn.rcs.net.ar/mnp/cronica/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/cronica/output.mpd
 #EXTINF:-1 tvg-id="TN.(Todo.Noticias).Argentina.(TN).ar" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/10-TN.png", TN
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/wHn1_QVoXGM
 #EXTINF:-1 tvg-id="América.24.(AME24).ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/11-a24.png" user-agent="iPhone", A24
@@ -30,7 +24,7 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="El.Trece.(Canal.13).(CNL13).ar" tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/14-Eltrece.png", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Nueve.(CNL9).ar" tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/15-Elnueve.png", El Nueve
-https://is-tucuman.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/16-America.png", América
 https://is-tucuman.cdn.rcs.net.ar/mnp/america/output.mpd
 
