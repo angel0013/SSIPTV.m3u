@@ -1,46 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Canal Encuentro" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/03-Encuentro.png", Encuentro
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
-#EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/04-NetTV.png", Net TV
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/05-Telemax.png", Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="InformacionPeriodistica.ar" tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/123-IP.png", Información Periodística
-https://ixp-nqn.origin.rcs.net.ar/mnp/ip_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal.26.Noticias.(26TV).ar" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/06-Canal26.png", Canal 26
-https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
-#EXTINF:-1 tvg-id="TV.Pública.(PUBLICA).ar" tvg-name="TV Publica" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/08-TVP.png", TV Pública
-https://ixp-nqn.origin.rcs.net.ar/mnp/tvp/output.mpd
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/09-Cronica.png", Crónica HD
-https://ixp-nqn.origin.rcs.net.ar/mnp/cronica/output.mpd
-#EXTINF:-1 tvg-id="TN.(Todo.Noticias).Argentina.(TN).ar" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/10-TN.png", TN
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/wHn1_QVoXGM
-#EXTINF:-1 tvg-id="América.24.(AME24).ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/11-a24.png" user-agent="iPhone", A24
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/o8JBz0XFS_k
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LN+" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/12-LN%2B.png", La Nación +
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IOSVORAZnRY
-#EXTINF:-1 tvg-id="Telefe.(TELFE2).ar" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/13-Telefe.png", Telefé
-https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 tvg-id="El.Trece.(Canal.13).(CNL13).ar" tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/14-Eltrece.png", El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Nueve.(CNL9).ar" tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/15-Elnueve.png", El Nueve
-https://ixp-nqn.origin.rcs.net.ar/mnp/elnueve/output.mpd
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/16-America.png", América
-https://is-tucuman.cdn.rcs.net.ar/mnp/america/output.mpd
-
-#EXTINF:-1 tvg-id="Canal2.ar" tvg-name="Canal 2 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/17-Canal2.png", Canal 2
-https://nd106.republicaservers.com:4433/canal2misioness.mp4
-#EXTINF:-1 tvg-id="DoceMisiones.ar" tvg-name="Canal 12 Posadas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/22-Canal12.png", Canal 12
-https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="Argentinisima Satelital" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/108-ArgentinisimaSat.png", Argentinisima Satelital
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8
-#EXTINF:-1 tvg-id="Canal.Rural.Satelital.(RURAL).ar" tvg-name="Canal Rural" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/24-CanalRural.png", Canal Rural
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://i.imgur.com/SGKGxt7.png" user-agent="iPhone", Canal Luz
-#EXTVLCOPT:http-user-agent=iPhone
-https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
-
 #EXTINF:-1 tvg-id="000" tvg-name="Inter-ARtv" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Inter_Icon.png", INTERNACIONALES - ARtv
 https://github.com/dvds115/DowloadIP/raw/main/ARtv/inter.m3u8
 #EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/114-SNTPy.png", SNT
@@ -65,17 +23,6 @@ https://channel-antena3-cdn.blim.com/manifest.mpd
 https://is-tucuman.cdn.rcs.net.ar/mnp/europa/output.mpd
 #EXTINF:-1 tvg-id="Telemundo.(Latin.America./.Non-US).(TELEMUND).ar" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/35-TelemundoInt.png", Telemundo Internacional
 https://is-tucuman.cdn.rcs.net.ar/mnp/telemundo/output.mpd
-#EXTINF:-1 tvg-id="Las.Estrellas.(ESTRELLA).ar" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/109-LasEstrellas.png", Las Estrellas
-https://github.com/dvds115/DowloadIP/raw/main/tv-static/tv-static.m3u8
-#EXTINF:-1 tvg-id="CaracolTVInternacional.co" tvg-name="Caracol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/34-CaracolInt.png", Caracol Internacional
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/lFpLCz2-tFE
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/68-Telesur.png", Telesur
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/kdGvR3KYhHE
-
-#EXTINF:-1 tvg-id="000" tvg-name="Infan-ARtv" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Infan_Icon.png", INFANTILES - ARtv
-https://github.com/dvds115/DowloadIP/raw/main/ARtv/infan.m3u8
-#EXTINF:-1 tvg-id="Pakapaka.(PAKAPAKA).ar" tvg-name="Paka Paka" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/38-PakaPaka.png" audio-track="spa", Paka Paka
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.(Latin.America.-.Argentina).(TOON).ar" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/40-CartoonNetwork.png", Cartoon Network
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.(Latin.America./.South).(NICK).ar" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/41-Nick.png", Nickelodeon
@@ -90,11 +37,10 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/nickjr/output.mpd
 https://is-tucuman.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 #EXTINF:-1 tvg-id="Cartoonito.(Latin.America).(CTNO).ar" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/115-Cartoonito.png", Cartoonito
 https://is-tucuman.cdn.rcs.net.ar/mnp/boomerang/output.mpd
-
 #EXTINF:-1 tvg-id="000" tvg-name="Cult-ARtv" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Cult_Icon.png", CULTURA - ARtv
 https://github.com/dvds115/DowloadIP/raw/main/ARtv/cult.m3u8
 #EXTINF:-1 tvg-id="The.Discovery.Channel.(Argentina).(DSC).ar" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/46-Discovery.png" audio-track="spa", Discovery Channel
-https://is-tucuman.cdn.rcs.net.ar/mnp/discovery/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1 tvg-id="TLCArgentina.ar" tvg-name="Discovery TLC" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/47-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa", Discovery TLC
 https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 #EXTINF:-1 tvg-id="Discovery.Turbo.International.(DTUR).ar" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/48-DiscoveryTurbo.png" tvg-description="Cultural", Discovery Turbo
@@ -104,9 +50,9 @@ https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_
 #EXTINF:-1 tvg-id="The.History.Channel.(Argentina).(THC).ar" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/50-History.png" tvg-description="Cultural", History
 https://is-tucuman.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF:-1 tvg-id="History.2.(Latin.America).(H2).ar" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/51-History2.png" tvg-description="Cultural", History 2
-https://is-tucuman.cdn.rcs.net.ar/mnp/h2/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/h2/output.mpd
 #EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-name="Nat Geo" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/52-NatGeo.png" tvg-description="Cultural", National Geographic
-https://is-tucuman.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/natgeohd/output.mpd
 #EXTINF:-1 tvg-id="Animal.Planet.International.(Argentina).(ANIMAL).ar" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/53-AnimalPlanet.png" tvg-description="Cultural", Animal Planet
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="Lifetime.(Latin.America).(LIFETIME).ar" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/54-Lifetime.png", Lifetime
@@ -119,8 +65,6 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/ae/output.mpd
 https://is-tucuman.cdn.rcs.net.ar/mnp/tbs/output.mpd
 #EXTINF:-1 tvg-id="TruTVAmericaLatina.us" tvg-name="Tru TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/71-TruTV.png", Tru TV
 https://is-tucuman.cdn.rcs.net.ar/mnp/trutv/output.mpd
-
-
 #EXTINF:-1 tvg-id="000" tvg-name="PORTAL DEPORTES" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Icono_App.png", DEPORTES - ARtv
 https://github.com/dvds115/DowloadIP/raw/main/ARtv/depor.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DEPORTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/56-Deportv.png", DEPORTV
@@ -145,106 +89,59 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-name="FOX Sports 3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/66-FoxSports3.png", FOX Sports 3
 https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
-#EXTINF:-1 tvg-id="" tvg-name="America Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/117-AmericaSports.png" tvg-description="Deportivo", América Sports
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/B9hwOM6jAbs
-#EXTINF:-1 tvg-id="261" tvg-name="Bein Sports Xtra" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/124-BeinSportsXtra.png", Bein Sports Xtra
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="261" tvg-name="Bein Sports Xtra Ñ" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/67-BeinSportsXtraN.png", Bein Sports Xtra Ñ
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="" tvg-name="Edge Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/125-EdgeSports.png", Edge Sports
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="El.Garage.TV.-.South.(Latin.America).(GARAG).ar" tvg-name="Garage TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/25-GarageTV.png", Garage TV
 https://is-tucuman.cdn.rcs.net.ar/mnp/garage_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="000" tvg-name="Pel-ARtv" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Icono_App.png", PELICULAS/SERIES - ARtv
-https://github.com/dvds115/DowloadIP/raw/main/ARtv/pelic.m3u8
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-name="CINE.AR" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/72-CineAr.png", CINE.AR
-https://is-tucuman.cdn.rcs.net.ar/mnp/cinear/output.mpd
-#EXTINF:-1 tvg-id="Atrecine.es" tvg-name="A3Cine" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/32-A3Cine.png", A3 Cine
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
-#EXTINF:-1 tvg-id="Atreseries.(ATRES).ar" tvg-name="A3 Series" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/31-A3SeriesInt.png", A3 Series
-https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/cinear/output.mpd
 #EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-name="Star Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/73-StarChannel.png", Star Channel
-https://is-tucuman.cdn.rcs.net.ar/mnp/foxhd/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1 tvg-id="FX.Latin.America.(Argentina).(FX).ar" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/74-FX.png", FX
-https://is-tucuman.cdn.rcs.net.ar/mnp/fx/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/fx/output.mpd
 #EXTINF:-1 tvg-id="HBO.Latin.America.(East).(HBO).ar" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/75-HBO.png", HBO
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbo/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/76-HBO2.png", HBO 2
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/hbo2/output.mpd
 #EXTINF:-1 tvg-id="HBO.Plus.(Panamericano).(HBO+).ar" tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/77-HBO%2B.png", HBO Plus
-https://is-tucuman.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/hboplus/output.mpd
 #EXTINF:-1 tvg-id="HBO.Family.(Spanish).(HBOFAM).ar" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/78-HBOFamily.png", HBO Family
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbofam/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/hbofam/output.mpd
 #EXTINF:-1 tvg-id="Cinemax.(South).(CINEMAX).ar" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/79-Cinemax.png", Cinemax
-https://is-tucuman.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/cinemax/output.mpd
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="Cinecanal" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/80-Cinecanal.png", Cinecanal
-https://is-tucuman.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/cinecanal/output.mpd
 #EXTINF:-1 tvg-id="TNT.Latin.America.Argentina.(English).(TNT-I).ar" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/81-TNT.png", TNT
-https://is-tucuman.cdn.rcs.net.ar/mnp/tnt/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/tnt/output.mpd
 #EXTINF:-1 tvg-id="TNT.Series.SUR.SD.(TNTSERIE).ar" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/82-TNTSeries.png", TNT Series
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
+https://ixp-nqn.origin.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
 #EXTINF:-1 tvg-id="AXN.(Argentina).(AXN).ar" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/83-AXN.png", AXN
-https://is-tucuman.cdn.rcs.net.ar/mnp/axn/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/axn/output.mpd
 #EXTINF:-1 tvg-id="AMC.(South).(AMC).ar" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/84-AMC.png", AMC
-https://is-tucuman.cdn.rcs.net.ar/mnp/amc/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/amc/output.mpd
 #EXTINF:-1 tvg-id="TCM.-.Turner.Classic.Movies.(Argentina).(TCMLA).ar" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/85-TCM.png", TCM
-https://is-tucuman.cdn.rcs.net.ar/mnp/tcm/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1 tvg-id="Syfy.(Latin.America).(Syfy).ar" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/86-Syfy.png", Syfy
-https://is-tucuman.cdn.rcs.net.ar/mnp/syfy/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1 tvg-id="Space.(Sur).(SPACE).ar" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/87-Space.png", Space
 https://is-tucuman.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 tvg-id="Paramount.Network.(Latin.America).(PARAM).ar" tvg-name="Paramount Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/88-Paramount.png", Paramount Channel
-https://is-tucuman.cdn.rcs.net.ar/mnp/paramount/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/paramount/output.mpd
 #EXTINF:-1 tvg-id="Studio.Universal.(Argentina).(STUNI).ar" tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/89-StudioUniversal.png", Studio Universal
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
 #EXTINF:-1 tvg-id="Universal.Channel.(Argentina).(UNIVE).ar" tvg-name="Universal Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/90-UniversalTV.png", Universal TV
-https://is-tucuman.cdn.rcs.net.ar/mnp/universal/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1 tvg-id="Warner.Channel.(Argentina).(WARNER).ar" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/91-WarnerChannel.png", Warner Channel
-https://is-tucuman.cdn.rcs.net.ar/mnp/warner/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1 tvg-id="Sony.Entertainment.Television.(Argentina).(SONY).ar" tvg-name="Sony Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/92-SonyChannel.png", Sony Channel
-https://is-tucuman.cdn.rcs.net.ar/mnp/sony/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/sony/output.mpd
 #EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/93-Volver.png", Volver
 https://github.com/dvds115/DowloadIP/raw/main/tv-static/tv-static.m3u8
 #EXTINF:-1 tvg-id="I-SAT.(Cono.Sur).(I-SAT).ar" tvg-name="i-Sat" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/120-iSat.png", i-Sat
-https://is-tucuman.cdn.rcs.net.ar/mnp/isat/output.mpd
-
-#EXTINF:-1 tvg-id="000" tvg-name="Coc-ARtv" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Icono_App.png", COCINA - ARtv
-https://github.com/dvds115/DowloadIP/raw/main/ARtv/cocin.m3u8
-#EXTINF:-1 tvg-id="Food.Network.(Latin.America).(FOOD).ar" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/94-FoodNetwork.png", Food Network
-https://github.com/dvds115/DowloadIP/raw/main/tv-static/tv-static.m3u8
-#EXTINF:-1 tvg-id="Elgourmet.com.(Sur).(G).ar" tvg-name="El Gourmet" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/95-ElGourmet.png" audio-track="spa", El Gourmet
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet.m3u8
-
-#EXTINF:-1 tvg-id="000" tvg-name="Telnvl-ARtv" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Icono_App.png", TELENOVELAS/DRAMA - ARtv
-https://github.com/dvds115/DowloadIP/raw/main/ARtv/main_portal.m3u8
-#EXTINF:-1 tvg-id="Pasiones.(LTAM).(PASN).ar" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/96-Pasiones.png" audio-track="spa", Pasiones [SD]
-https://github.com/dvds115/DowloadIP/raw/main/tv-static/tv-static.m3u8
-#EXTINF:-1 tvg-id="TlnovelasAmerica.mx" tvg-name="Tlnovelas" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/97-TLN.png", Tlnovelas
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/txn_859t
-#EXTINF:-1 tvg-id="GlitzLatinAmerica.us" tvg-name="Glitz" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/98-Glitz.png" audio-track="spa", Glitz [SD]
-https://is-tucuman.cdn.rcs.net.ar/mnp/glitz/output.mpd
-
-#EXTINF:-1 tvg-id="000" tvg-name="Espect-ARtv" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Icono_App.png", ESPECTACULO/MODA - ARtv
-https://github.com/dvds115/DowloadIP/raw/main/ARtv/espect.m3u8
-#EXTINF:-1 tvg-id="¡Hola!.TV.(USA).(HOLA).ar" tvg-name="Hola TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/99-HolaTV.png" audio-track="spa", Hola TV
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-#EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/100-E!.png" audio-track="spa", E!
-https://github.com/dvds115/DowloadIP/raw/main/tv-static/tv-static.m3u8
-#EXTINF:-1 tvg-id="MasChicLatinAmerica.us" tvg-name="Más Chic" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/101-MasChic.png" audio-track="spa", Más Chic
-https://is-tucuman.cdn.rcs.net.ar/mnp/maschic/output.mpd
-
-#EXTINF:-1 tvg-id="000" tvg-name="Mus-ARtv" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Icono_App.png", MUSICA - ARtv
-https://github.com/dvds115/DowloadIP/raw/main/ARtv/music.m3u8
-#EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="Music Top" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/102-MusicTop.png", Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.Latin.America.(South.Feed).(MTV).ar" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/103-MTV.png", MTV
-https://is-tucuman.cdn.rcs.net.ar/mnp/mtv/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/isat/output.mpd
 #EXTINF:-1 tvg-id="Quiero.Música.(QUIERO).ar" tvg-name="Quiero" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/104-Quiero.png", Quiero Música
 https://github.com/dvds115/DowloadIP/raw/main/tv-static/tv-static.m3u8
 #EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/121-Htv.png", HTV
-https://is-tucuman.cdn.rcs.net.ar/mnp/htv/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1 tvg-id="Canal.de.la.Música.(CMTV).ar" tvg-name="CM" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/122-CM.png", Canal de la Música
-https://is-tucuman.cdn.rcs.net.ar/mnp/cm/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/cm/output.mpd
 #EXTINF:-1 tvg-id="Much.Music.(Latin.America).(MUCHLA).ar" tvg-name="Much Music" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/105-MuchMusic.png", Much Music
-https://is-tucuman.cdn.rcs.net.ar/mnp
+https://ixp-nqn.origin.rcs.net.ar/mnp/much_music/output.mpd
