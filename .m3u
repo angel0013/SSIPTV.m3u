@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="000" tvg-name="Inter-ARtv" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Inter_Icon.png", INTERNACIONALES - ARtv
-https://github.com/dvds115/DowloadIP/raw/main/ARtv/inter.m3u8
 #EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT Py" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/114-SNTPy.png", SNT
 https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/128-SBT.png", SBT
@@ -122,23 +120,19 @@ https://ixp-nqn.origin.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1 tvg-id="Syfy.(Latin.America).(Syfy).ar" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/86-Syfy.png", Syfy
 https://ixp-nqn.origin.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1 tvg-id="Space.(Sur).(SPACE).ar" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/87-Space.png", Space
-https://is-tucuman.cdn.rcs.net.ar/mnp/space/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 tvg-id="Paramount.Network.(Latin.America).(PARAM).ar" tvg-name="Paramount Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/88-Paramount.png", Paramount Channel
 https://ixp-nqn.origin.rcs.net.ar/mnp/paramount/output.mpd
 #EXTINF:-1 tvg-id="Studio.Universal.(Argentina).(STUNI).ar" tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/89-StudioUniversal.png", Studio Universal
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+https://ixp-nqn.origin.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
 #EXTINF:-1 tvg-id="Universal.Channel.(Argentina).(UNIVE).ar" tvg-name="Universal Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/90-UniversalTV.png", Universal TV
 https://ixp-nqn.origin.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1 tvg-id="Warner.Channel.(Argentina).(WARNER).ar" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/91-WarnerChannel.png", Warner Channel
 https://ixp-nqn.origin.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1 tvg-id="Sony.Entertainment.Television.(Argentina).(SONY).ar" tvg-name="Sony Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/92-SonyChannel.png", Sony Channel
 https://ixp-nqn.origin.rcs.net.ar/mnp/sony/output.mpd
-#EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/93-Volver.png", Volver
-https://github.com/dvds115/DowloadIP/raw/main/tv-static/tv-static.m3u8
 #EXTINF:-1 tvg-id="I-SAT.(Cono.Sur).(I-SAT).ar" tvg-name="i-Sat" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/120-iSat.png", i-Sat
 https://ixp-nqn.origin.rcs.net.ar/mnp/isat/output.mpd
-#EXTINF:-1 tvg-id="Quiero.Música.(QUIERO).ar" tvg-name="Quiero" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/104-Quiero.png", Quiero Música
-https://github.com/dvds115/DowloadIP/raw/main/tv-static/tv-static.m3u8
 #EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/121-Htv.png", HTV
 https://ixp-nqn.origin.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1 tvg-id="Canal.de.la.Música.(CMTV).ar" tvg-name="CM" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/122-CM.png", Canal de la Música
