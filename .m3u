@@ -10,39 +10,37 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="France.24.(North.America.-.French).(F24).ar" tvg-name="France 24 Espanol" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/28-France24es.png", France 24 Español
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/XDJPzMznAjU
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN Español" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/110-CNNEspa%C3%B1ol.png", CNN en Español
-https://github.com/dvds115/DowloadIP/raw/main/tv-static/tv-static.m3u8
+https://ixp-nqn.origin.rcs.net.ar/mnp/cnnes/output.mpd
 #EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/29-CNNInt.png", CNN International
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://ixp-nqn.origin.rcs.net.ar/mnp/cnn/output.mpd
 #EXTINF:-1 tvg-id="Rai.Italia.Nord.America.(RAI).ar" tvg-name="Rai Italia" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/111-Raitalia.png", Rai Italia
 https://github.com/dvds115/DowloadIP/raw/main/tv-static/tv-static.m3u8
 #EXTINF:-1 tvg-id="Antena.3.(Internacional).(ANTENA.3).ar" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/112-Antena3.png" audio-track="spa", Antena 3
 https://channel-antena3-cdn.blim.com/manifest.mpd
 #EXTINF:-1 tvg-id="EuropaEuropaHD.ar" tvg-name="Europa Europa" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/129-EuropaEuropa.png" audio-track="spa", Europa Europa
-https://is-tucuman.cdn.rcs.net.ar/mnp/europa/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/europa/output.mpd
 #EXTINF:-1 tvg-id="Telemundo.(Latin.America./.Non-US).(TELEMUND).ar" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/35-TelemundoInt.png", Telemundo Internacional
-https://is-tucuman.cdn.rcs.net.ar/mnp/telemundo/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/telemundo/output.mpd
 #EXTINF:-1 tvg-id="Cartoon.Network.(Latin.America.-.Argentina).(TOON).ar" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/40-CartoonNetwork.png", Cartoon Network
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+https://ixp-nqn.origin.rcs.net.ar/mnp/cartoon_hls/output.mpd
 #EXTINF:-1 tvg-id="Nickelodeon.(Latin.America./.South).(NICK).ar" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/41-Nick.png", Nickelodeon
-https://is-tucuman.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/nickelodeon/output.mpd
 #EXTINF:-1 tvg-id="Disney.en.Español.(South.Feed).(DISNEY).ar" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/42-Disney.png", Disney Channel
-https://is-tucuman.cdn.rcs.net.ar/mnp/disney/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/disney/output.mpd
 #EXTINF:-1 tvg-id="Discovery.Kids.(Latin.America).(DSCKDS).ar" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/43-DiscoveryKids.png", Discovery Kids
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
+https://ixp-nqn.origin.rcs.net.ar/mnp/disc_kids/output.mpd
 #EXTINF:-1 tvg-id="Nick.Jr..(NICKJR).ar" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/44-NickJr.png", Nick Jr
-https://is-tucuman.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/nickjr/output.mpd
 #EXTINF:-1 tvg-id="Disney.Junior.(South.feed).(DISJR).ar" tvg-name="Disney Jr" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/45-DisneyJr.png", Disney Jr
-https://is-tucuman.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/disneyjr/output.mpd
 #EXTINF:-1 tvg-id="Cartoonito.(Latin.America).(CTNO).ar" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/115-Cartoonito.png", Cartoonito
-https://is-tucuman.cdn.rcs.net.ar/mnp/boomerang/output.mpd
-#EXTINF:-1 tvg-id="000" tvg-name="Cult-ARtv" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Cult_Icon.png", CULTURA - ARtv
-https://github.com/dvds115/DowloadIP/raw/main/ARtv/cult.m3u8
+https://ixp-nqn.origin.rcs.net.ar/mnp/boomerang/output.mpd
 #EXTINF:-1 tvg-id="The.Discovery.Channel.(Argentina).(DSC).ar" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/46-Discovery.png" audio-track="spa", Discovery Channel
 https://ixp-nqn.origin.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1 tvg-id="TLCArgentina.ar" tvg-name="Discovery TLC" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/47-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa", Discovery TLC
-https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/dsc_tlc/output.mpd
 #EXTINF:-1 tvg-id="Discovery.Turbo.International.(DTUR).ar" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/48-DiscoveryTurbo.png" tvg-description="Cultural", Discovery Turbo
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo.m3u8
+https://ixp-nqn.origin.rcs.net.ar/mnp/dsc_turbo/output.mpd
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthHDSouth.us" tvg-name="Discovery H&H" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/49-DiscoveryH%26H.png" tvg-description="Cultural", Discovery H&H
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
 #EXTINF:-1 tvg-id="The.History.Channel.(Argentina).(THC).ar" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/50-History.png" tvg-description="Cultural", History
@@ -52,43 +50,41 @@ https://ixp-nqn.origin.rcs.net.ar/mnp/h2/output.mpd
 #EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-name="Nat Geo" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/52-NatGeo.png" tvg-description="Cultural", National Geographic
 https://ixp-nqn.origin.rcs.net.ar/mnp/natgeohd/output.mpd
 #EXTINF:-1 tvg-id="Animal.Planet.International.(Argentina).(ANIMAL).ar" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/53-AnimalPlanet.png" tvg-description="Cultural", Animal Planet
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+https://ixp-nqn.origin.rcs.net.ar/mnp/animalplanet/output.mpd
 #EXTINF:-1 tvg-id="Lifetime.(Latin.America).(LIFETIME).ar" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/54-Lifetime.png", Lifetime
-https://is-tucuman.cdn.rcs.net.ar/mnp/lifetime/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/lifetime/output.mpd
 #EXTINF:-1 tvg-id="Investigation.Discovery.(Argentina).(ID).ar" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/55-ID.png", Investigation Discovery (ID)
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+https://ixp-nqn.origin.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.mpd
 #EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/70-A%26E.png", A&E
-https://is-tucuman.cdn.rcs.net.ar/mnp/ae/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/ae/output.mpd
 #EXTINF:-1 tvg-id="TBS.Sur.(TBS).ar" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/116-TBS.png", TBS
-https://is-tucuman.cdn.rcs.net.ar/mnp/tbs/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/tbs/output.mpd
 #EXTINF:-1 tvg-id="TruTVAmericaLatina.us" tvg-name="Tru TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/71-TruTV.png", Tru TV
-https://is-tucuman.cdn.rcs.net.ar/mnp/trutv/output.mpd
-#EXTINF:-1 tvg-id="000" tvg-name="PORTAL DEPORTES" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/ARtv/Icono_App.png", DEPORTES - ARtv
-https://github.com/dvds115/DowloadIP/raw/main/ARtv/depor.m3u8
+https://ixp-nqn.origin.rcs.net.ar/mnp/trutv/output.mpd
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DEPORTV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/56-Deportv.png", DEPORTV
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/DeporTv/SA_HLS/DeporTv.m3u8
+https://ixp-nqn.origin.rcs.net.ar/mnp/deportv/output.mpd
 #EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/57-ESPN.png", ESPN
-https://is-tucuman.cdn.rcs.net.ar/mnp/espn/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/espn/output.mpd
 #EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/58-ESPN2.png", ESPN 2
-https://is-tucuman.cdn.rcs.net.ar/mnp/espn2/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/espn2/output.mpd
 #EXTINF:-1 tvg-id="ESPN3HDArgentina.ar" tvg-name="ESPN3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/59-ESPN3.png", ESPN 3
-https://is-tucuman.cdn.rcs.net.ar/mnp/espn3/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/espn3/output.mpd
 #EXTINF:-1 tvg-id="ESPNExtraHDSouth.us" tvg-name="ESPN+" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/61-ESPN%2B.png", ESPN Extra
-https://is-tucuman.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/espn_extra/output.mpd
 #EXTINF:-1 tvg-id="Torneos.y.Competencias.(Argentina).(TYC).ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/62-TyCSports.png", TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.HDTV.(TNTSP).ar" tvg-name="TNT Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/63-TNTSports.png", TNT Sports
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+https://ixp-nqn.origin.rcs.net.ar/mnp/tntsports/output.mpd
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/64-ESPNPremium.png", ESPN Premium
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+https://ixp-nqn.origin.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-name="FOX Sports" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/65-FoxSports.png", FOX Sports
-https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/fox_sport/output.mpd
 #EXTINF:-1 tvg-id="FoxSports2South.us" tvg-name="FOX Sports 2" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/66-FoxSports2.png", FOX Sports 2
-https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-name="FOX Sports 3" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/66-FoxSports3.png", FOX Sports 3
-https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+https://ixp-nqn.origin.rcs.net.ar/mnp/fox_sport3/output.mpd
 #EXTINF:-1 tvg-id="El.Garage.TV.-.South.(Latin.America).(GARAG).ar" tvg-name="Garage TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/25-GarageTV.png", Garage TV
-https://is-tucuman.cdn.rcs.net.ar/mnp/garage_hls/playlist.m3u8
+https://ixp-nqn.origin.rcs.net.ar/mnp/garage/output.mpd
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-name="CINE.AR" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/72-CineAr.png", CINE.AR
 https://ixp-nqn.origin.rcs.net.ar/mnp/cinear/output.mpd
 #EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-name="Star Channel" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/73-StarChannel.png", Star Channel
@@ -110,7 +106,7 @@ https://ixp-nqn.origin.rcs.net.ar/mnp/cinecanal/output.mpd
 #EXTINF:-1 tvg-id="TNT.Latin.America.Argentina.(English).(TNT-I).ar" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/81-TNT.png", TNT
 https://ixp-nqn.origin.rcs.net.ar/mnp/tnt/output.mpd
 #EXTINF:-1 tvg-id="TNT.Series.SUR.SD.(TNTSERIE).ar" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/82-TNTSeries.png", TNT Series
-https://ixp-nqn.origin.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
+https://ixp-nqn.origin.rcs.net.ar/mnp/tntseries/output.mpd
 #EXTINF:-1 tvg-id="AXN.(Argentina).(AXN).ar" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/83-AXN.png", AXN
 https://ixp-nqn.origin.rcs.net.ar/mnp/axn/output.mpd
 #EXTINF:-1 tvg-id="AMC.(South).(AMC).ar" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/84-AMC.png", AMC
