@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/argentinapremium2.xml" 
 
-#EXTINF:-1 tvg-chno="1" tvg-id="TNT NOVELAS HD" group-title="Novelas", TNT NOVELAS HD
+#EXTINF:-1 tvg-chno="1" tvg-id="TNT NOVELAS" group-title="Novelas", TNT NOVELAS
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="TELEFE HD" group-title="Caba", TELEFE HD
+#EXTINF:-1 tvg-chno="2" tvg-id="TELEFE" group-title="Caba", TELEFE 
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
