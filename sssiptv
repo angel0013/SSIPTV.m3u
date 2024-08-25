@@ -1,7 +1,4 @@
-#EXTM3U url-tvg="http://213.126.50.203/sites/default/files/download/ini/info/siteini.pack/Argentina/directv.com.ar.channels.xml" 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
-#EXTINF:-1 tvg-id=<channel update="i" site="directv.com.ar" site_id="1794" xmltv_id="Informacion Periodística(IPHD)(721)">Informacion Periodística(IPHD)(721)</channel> tvg-logo="https://www.foromedios.com/uploads/monthly_2023_03/large.imagen_2023-03-21_001530950-modified.png.114408377875a9a7e8aa5b67ba71ddeb.png" tvg-group="Noticias", IP TDAA
-https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentinapremium2.xml" 
 
-
+#EXTINF:-1 tvg-chno="4578" tvg-id="TNT NOVELAS" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="Monales", TNT NOVELAS
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
