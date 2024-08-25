@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentinapremium2.xml" 
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/argentinapremium2.xml" 
 
 #EXTINF:-1 tvg-chno="4578" tvg-id="TNT NOVELAS" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="Monales", TNT NOVELAS
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
