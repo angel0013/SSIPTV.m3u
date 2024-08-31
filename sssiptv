@@ -3,5 +3,5 @@
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF-1 tvg-chno="3" tvg-id="UCL.py" tvg-name="UCL.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias, UCL
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-#EXTINF-1tvg-chno="3" tvg-id="FARRA HD.py" tvg-name="FARRA HD.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", FARRA PLAY
+#EXTINF-1 tvg-chno="3" tvg-id="FARRA HD.py" tvg-name="FARRA HD.py" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", FARRA PLAY
 https://stream.farra.com.py/live/farra.m3u8
