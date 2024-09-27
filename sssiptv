@@ -191,5 +191,7 @@ http://181.78.27.128:8000/play/a03m/index.m3u8
 http://181.78.27.128:8000/play/a01m/index.m3u8
 #EXTINF:-1,FARRA PLAY
 https://stream.farra.com.py/live/farra.m3u8
-#EXTINF:-1,TELE N HD
-https://fl1002.bozztv.com/ssh101/telentv/index.m3u8
+#EXTINF:-1,Tele N HD
+https://videostream.shockmedia.com.ar:19360/tlnhd/tlnhd.m3u8
+#EXTINF:-1, FARRA PLAY HD
+http://159.203.148.226/live/farra_src.m3u8
