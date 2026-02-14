@@ -9,3 +9,97 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="Paraguay",EVENTOS+ PY TIGO 2
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+
+#EXTINF:-1,C9N
+http://181.78.27.128:12543/play/a021/index.m3u8
+
+#EXTINF:-1,Abc Tv
+http://181.78.27.128:12543/play/a05r/index.m3u8
+
+#EXTINF:-1,Almaya Tv Pilar
+http://181.78.27.128:12543/play/a06g/index.m3u8
+
+#EXTINF:-1,A&EHD
+http://181.78.27.128:12543/play/a01v/index.m3u8
+#EXTINF:-1,AMERICA TV 
+http://181.78.27.128:12543/play/a01x/index.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://181.78.27.128:12543/play/a01y/index.m3u8
+#EXTINF:-1,AXN HD
+http://181.78.27.128:12543/play/a01w/index.m3u8
+
+#EXTINF:-1,NPY IPTV
+http://181.78.27.128:12543/play/a018/index.m3u8
+#EXTINF:-1,PAKA PAKA
+http://181.78.27.128:12543/play/a04x/index.m3u8
+#EXTINF:-1,PARAGUAY TV 
+http://181.78.27.128:12543/play/a039/index.m3u8
+#EXTINF:-1,PARAMOUNT HD
+http://181.78.27.128:12543/play/a03a/index.m3u8
+#EXTINF:-1,PARAVISION
+http://181.78.27.128:12543/play/a038/index.m3u8
+#EXTINF:-1,PASIONES HD
+http://181.78.27.128:12543/play/a059/index.m3u8
+#EXTINF:-1,POPU TV 
+http://181.78.27.128:12543/play/a057/index.m3u8
+#EXTINF:-1,RCN NOVELAS
+http://181.78.27.128:12543/play/a03b/index.m3u8
+#EXTINF:-1,REDE BRASIL
+http://181.78.27.128:12543/play/a06b/index.m3u8
+#EXTINF:-1,ROCK AND POP PY
+http://181.78.27.128:12543/play/a058/index.m3u8
+
+#EXTINF:-1,Canal AlbNET
+http://181.78.27.128:12543/play/a05p/index.m3u8
+
+
+#EXTINF:-1,RT ESPAÑOL
+http://181.78.27.128:12543/play/a06i/index.m3u8
+#EXTINF:-1,SNT
+http://181.78.27.128:12543/play/a03e/index.m3u8
+#EXTINF:-1,SONY HD
+http://181.78.27.128:12543/play/a03h/index.m3u8
+#EXTINF:-1,SONY MOVIES HD
+http://181.78.27.128:12543/play/a03i/index.m3u8
+#EXTINF:-1,SPACE HD
+http://181.78.27.128:12543/play/a03o/index.m3u8
+#EXTINF:-1,STB BRASIL
+http://181.78.27.128:12543/play/a06c/index.m3u8
+#EXTINF:-1,SUR TV
+http://181.78.27.128:12543/play/a03g/index.m3u8
+#EXTINF:-1,EVENTOS HD
+http://181.78.27.128:12543/play/a05a/index.m3u8
+#EXTINF:-1,EVENTOS PARA TODOS ARSAT2
+http://181.78.27.128:12543/play/a05b/index.m3u8
+#EXTINF:-1,FOX SPORT 2 HD
+http://181.78.27.128:12543/play/a02r/index.m3u8
+#EXTINF:-1,FOX SPORT 3 HD
+http://181.78.27.128:12543/play/a02s/index.m3u8
+#EXTINF:-1,FOX SPORT HD
+http://181.78.27.128:12543/play/a02t/index.m3u8
+
+#EXTINF:-1,GEN PY
+http://181.78.27.128:12543/play/a00a/index.m3u8
+
+#EXTINF:-1,TRECE PY
+http://181.78.27.128:12543/play/a04l/index.m3u8
+#EXTINF:-1,TV CAMARA 
+http://181.78.27.128:12543/play/a04d/index.m3u8
+#EXTINF:-1,TV PUBLICA
+http://181.78.27.128:12543/play/a05l/index.m3u8
+#EXTINF:-1,TV PUBLICA HD 
+http://181.78.27.128:12543/play/a04g/index.m3u8
+#EXTINF:-1,TYC SPORT HD 
+http://181.78.27.128:12543/play/a04n/index.m3u8
+#EXTINF:-1,TeleSUR
+http://181.78.27.128:12543/play/a04z/index.m3u8
+#EXTINF:-1,Telefuturo IPTV
+http://181.78.27.128:12543/play/a016/index.m3u8
+#EXTINF:-1,UNICANAL  PY 
+http://181.78.27.128:12543/play/a04p/index.m3u8
+#EXTINF:-1,LA NACION 
+http://181.78.27.128:12543/play/a02x/index.m3u8
+#EXTINF:-1,LA TELE PY
+http://181.78.27.128:12543/play/a017/index.m3u8
+#EXTINF:-1,LAPACHO TV
+http://181.78.27.128:12543/play/a04o/index.m3u8
